@@ -1,0 +1,78 @@
+   0 pwd
+   1 mkdir /home/animals
+   2 mkdir -p /homr/animals/dogs/cats/fish
+   3 touch -p /home/animals/dogs/pluto
+   4 touch -p /home/animals/dogs/pluto.txt
+   5 touch -p /home/animals/cats/garfield.txt
+   6 touch /home/animals/fish/nemo.txt
+   7 ls -l
+   8 tree /home
+   9 mkdir /animals/dogs
+  10 mkdir /home/animals/dogs
+  11 mkdir /home/animals/cats
+  12 mkdir /home/animals/fish
+  13 touch /home/animals/dogs/pluto.txt
+  14 touch /home/animals/cats/garfields.txt
+  15 touch /home/animals/fish/nemo.txt
+  16 mkdir /home/planets
+  17 tree /home
+  18 cd /opt
+  19 ls -l
+  20 touch Mercury/Venus/Mars/Jupiter
+  21 touch / Mercury/Venus/Mars/Jupiter
+  22 touch /Mercury/Venus/Mars/Jupiter
+  23 touch /opt/Mercury/Venus/Mars/Jupiter
+  24 touch /Mercury.txt/Venus.txt/Mars.txt/Jupiter.txt
+  25 touch /Mercury.txt
+  26 touch /Venus.txt
+  27 touch /Mars.txt
+  28 touch /Jupiter.txt
+  29 ls -la
+  30 tree /opt
+  31 ls -a
+  32 cat /opt
+  33 ls -l
+  34 mv Mercury.txt Venus.txt Mars.txt Jupiter.txt /home/planets
+  35 mv Mercury.txt /home/planets/
+  36 cd Mercury.txt
+  37 cd/Mercury.txt
+  38 touch /opt/Mercury.txt
+  39 ls -s
+  40 touch /opt/Venus.txt/Mars.txt/Jupiter.txt
+  41 touch /opt/Mars.txt
+  42 touch /opt/Venus.txt
+  43 touch /opt/Jupiter.txt
+  44 tree /opt
+  45 mv /opt/Mercury.txt/Venus.xtx/Mars.txt/Jupiter.txt /home/planets/
+  46 mv /opt/Mercury.txt/Venus.txt/Mars.txt/Jupiter.txt /home/planets/
+  47 mv Mercury.txt /home/planets
+  48 mv Venus.txt /home/planets/
+  49 mv Mars.txt /home/planets/
+  50 mv Jupiter.txt /home/planets/
+  51 cd planets
+  52 cd /home/planets
+  53 ls -l
+  54 cd tmp
+  55 cd /tmp
+  56 touch adam.txt
+  57 cd /home
+  58 mkdir /home/humans
+  59 cd /tmp
+  60 cp adam.txt /home/humans/
+  61 tree /home
+  62 cd /tmp
+  63 touch evA.txt
+  64 mv evA.txt eva.txt
+  65 mv eva.txt /opt/eva.txt
+  66 cd /opt
+  67 ls -l
+  68 ls -a
+  69 mv /opt/eva.txt /home/humans/
+  70 cd /home
+  71 ls -l
+  72 cd /humans
+  73 cd /home/humans
+  74 ls -l
+  75 tree /home
+  76 history
+  77 history > history_16.txt

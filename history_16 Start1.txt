@@ -1,0 +1,52 @@
+   0 cd /home
+   1 mkdir -p /home/user/start/
+   2 touch /home/user/start/1.txt
+   3 touch /home/user/start/1.txt Start1.txt
+   4 date + '%D'
+   5  $ date +'%D'
+   6  date +'%D'
+   7 echo 11/26/23 >> Start1.txt 
+   8 cd /opt
+   9 mkdir /opt/task
+  10 touch /opt/task/start.txt
+  11 cp /home/Start1.txt /opt/task/start.txt 
+  12 cd /
+  13 ls -l
+  14 echo 
+  15 dr-xr-xr-x   12 root     root             0 Nov 26 15:20 sys
+  16 drwxrwxrwt    2 root     root            37 Jan  9  2021 tmp
+  17 drwxr-xr-x   10 root     root           229 Jun 24  2020 usr
+  18 drwxr-xr-x   16 root     root           348 Aug 27  2020 var /opt/task/start.txt 
+  19 tree /
+  20 cd /opt
+  21 ls -l
+  22 cd /task
+  23 task
+  24 tree /opt
+  25 cat start.txt
+  26 cat /opt/task/start.txt 
+  27 cd /
+  28 ls -l
+  29 cp dr-xr-xr-x   12 root     root             0 Nov 26 15:20 sys
+  30 drwxrwxrwt    2 root     root            37 Jan  9  2021 tmp
+  31 drwxr-xr-x   10 root     root           229 Jun 24  2020 usr
+  32 drwxr-xr-x   16 root     root           348 Aug 27  2020 var
+  33 cp dr-xr-xr-x   12 root     root             0 Nov 26 15:20 sys /opt/task/start.txt 
+  34 tail /
+  35 cd /sys
+  36 ls -l
+  37 tree /sys
+  38 claer
+  39 cd /
+  40 tail -n 4 >> /opt/task/start.txt 
+  41 cd /home
+  42 cd /tmp
+  43 mkdir /tmp/testnew
+  44 cp /opt/task /tmp/testnew/
+  45 cp /opt/task/start.txt  /tmp/testnew/
+  46 cat /readme.txt >> /tmp/testnew/start.txt 
+  47 cat ~/readme.txt >> /tmp/testnew/start.txt 
+  48 rm -rf /opt/task
+  49 tree /tmp
+  50 history
+  51 history > history_16.txt

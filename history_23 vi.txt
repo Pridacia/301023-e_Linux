@@ -1,0 +1,28 @@
+   0 vi file.txt
+   1 cd /tmp
+   2 touch /tmp/file.txt
+   3 df -h
+   4 head -n 3 >> /tmp/file.txt 
+   5 chmod ugo w-
+   6 ls -l
+   7 shmod ugo+w file.txt
+   8 shmod ugo+w /tmp/file.txt
+   9 shmod ugo+w file.txt
+  10 ls -l
+  11 cd /root
+  12 shmod ugo+w file.txt
+  13 shmod ugo+x file.txt
+  14 chmod ugo+w file.txt
+  15 ls -l
+  16 cd /tmp 
+  17 ls -l
+  18 chmod ugo+w file.txt
+  19 ls -l
+  20 chmod g+w file.txt
+  21 ls -l
+  22 chmod u-r file.txt
+  23 ls -l
+  24 chmod o+x file.txt
+  25 ls -l
+  26 history
+  27 history > history_23.txt

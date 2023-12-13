@@ -1,0 +1,37 @@
+   0 nano sleeper.sh
+   1 chmod u+x sleeper.sh
+   2 ls -l
+   3 ls -p
+   4  ./sleeper.sh
+   5 nano sleeper.sh
+   6 chmod u+x sleeper.sh
+   7 ls -l
+   8 ls -p
+   9  ./sleeper.sh
+  10 ./sleeper.sh
+  11 nano sleeper.sh
+  12 chmod u+x sleeper.sh
+  13 ls -l
+  14  ./sleepper.sh
+  15  ./sleeper.sh
+  16 nano sleeper.sh
+  17  ./sleeper.sh
+  18 env
+  19 cat /pcoc/cpuinfo
+  20 cat /proc/cpuinfo
+  21 cat /proc/cpuinfo >> sleeper.sh
+  22 nano sleeper.sh
+  23 cat /etc/os-release
+  24 nano sleeper.sh
+  25 cat /etc/os-release > sleeper.sh
+  26 nano sleeper.sh
+  27 nano sleeper1.sh
+  28 chmod u+x sleeper1.sh
+  29  ./sleeper1.sh
+  30 ls -l
+  31 nano sleeper1.sh
+  32 chmod u+x sleeper1.sh
+  33  ./sleeper1.sh
+  34 ls -l
+  35 history
+  36 history > history_16.txt
